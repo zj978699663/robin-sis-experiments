@@ -1,0 +1,6 @@
+epsilon,mean_error,mean_over_sqrt_epsilon,corrector_error,corrector_over_epsilon
+4.0e-2,4.826e-4,2.413e-3,1.978e-6,4.945e-5
+2.0e-2,3.423e-4,2.421e-3,3.161e-7,1.580e-5
+1.0e-2,2.423e-4,2.423e-3,9.366e-8,9.366e-6
+5.0e-3,1.713e-4,2.423e-3,4.464e-8,8.927e-6
+2.5e-3,1.211e-4,2.422e-3,1.165e-8,4.659e-6
